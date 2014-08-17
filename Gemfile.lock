@@ -1,0 +1,14 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    dotenv (0.11.1)
+      dotenv-deployment (~> 0.0.2)
+    dotenv-deployment (0.0.2)
+    sqlite3 (1.3.9)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  dotenv
+  sqlite3
